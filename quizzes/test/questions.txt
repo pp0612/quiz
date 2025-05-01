@@ -1,51 +1,94 @@
-title May 1 Quiz1
+title May 1 Mock test
 img ijtema_2015.png
 admincode test
 quizcode test
 
-q Donnez la date de naissance du St Prophète Mohammad (saw) (mois et année)
+q Who invented the telephone?
 time 10
 marks 1
-a En Avril 580
-ac En Aout 570
-a En Aout 570
-a En Aout 570
+a Thomas Edison
+ac Alexander Graham Bell
+a Nikola Tesla
+a Guglielmo Marconi
 !
 
-q Qui est cette personne?
-img 2.png
-a Theodore Roosevelt
-ac Abraham Lincoln
+q What did Johannes Gutenberg invent?
+time 10
+marks 1
+a Steam engine
+a Typewriter
+ac Printing press
+a Compass
 !
 
-q Quel est le record du monde du saut en longueur (hommes) ?
-img 3.png
-a 5.60 m
-a 7.35 m
-ac 8.95 m
-a 10.12 m
+q Who is known for inventing the light bulb?
+time 10
+marks 1
+a Michael Faraday
+ac Thomas Edison
+a Alexander Graham Bell
+a James Watt
 !
 
-q En quelle année eut lieu les signes des éclipses lunaires et solaires prophétisant la venue du Messie Promis?
-time 30
-marks 30
-img 4.png
-a 1878
-ac 1894
-a 1901
-a 1908
+q What invention is the Wright brothers famous for?
+time 10
+marks 1
+ac Airplane
+a Rocket
+a Helicopter
+a Hot air balloon
 !
 
-q A quelle vitesse le son se propage-t-il dans l’air?
-img 5.png
-ac 340 m/s
-a 1 km/s
-a 10 km/s
-a 300 km/s
+q Who invented the World Wide Web?
+time 10
+marks 1
+a Steve Jobs
+ac Tim Berners-Lee
+a Bill Gates
+a Mark Zuckerberg
 !
 
-q Que signifie ce signe de la route?
-img 6.png
-a No parking
-ac No overtaking
+q What did James Watt improve significantly?
+time 10
+marks 1
+a Telephone
+ac Steam engine
+a Electric motor
+a Light bulb
+!
+
+q Who invented the first successful printing press?
+time 10
+marks 1
+a Isaac Newton
+a Blaise Pascal
+ac Johannes Gutenberg
+a Louis Braille
+!
+
+q What did Alexander Fleming discover?
+time 10
+marks 1
+a Electricity
+a Insulin
+ac Penicillin
+a Telescope
+!
+
+q Who invented the first mechanical computer?
+time 10
+marks 1
+a Alan Turing
+a Bill Gates
+ac Charles Babbage
+a Steve Jobs
+!
+
+q What invention is Galileo Galilei associated with?
+time 10
+marks 1
+a Printing press
+a Microscope
+a Radio
+ac Telescope
 !
