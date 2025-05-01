@@ -1,6 +1,6 @@
 title May 1 Mock test
 img ijtema_2015.png
-admincode test
+admincode Praveen
 quizcode test
 
 q Who invented the telephone?
