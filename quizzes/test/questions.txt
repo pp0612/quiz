@@ -1,4 +1,4 @@
-title May 1 Quiz
+title May 1 Quiz1
 img ijtema_2015.png
 admincode test
 quizcode test
